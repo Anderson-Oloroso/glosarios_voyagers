@@ -17,3 +17,13 @@ Flexibilidad Conductual (Autoobservación): Es la capacidad psicológica de regu
 
 **Ejemplo de aplicacion:**
 En una fiesta de una empresa, la persona actúa abierta, habladora y festiva para conectar con el grupo (extroversión), pero al día siguiente, en una reunión técnica de análisis, se muestra reservada, observadora y enfocada en escuchar (introversión).
+
+---
+
+**Identidad**
+* La identidad es el conjunto de características, cualidades, valores, experiencias y rasgos que definen a una persona, grupo o cosa y permiten distinguirla de los demás.
+
+Ejemplo:
+La identidad de una persona puede estar formada por su nombre, su personalidad, sus creencias, su cultura y las experiencias que han influido en quién es.
+
+---
