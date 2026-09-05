@@ -1,10 +1,11 @@
-- Reputación
+### Reputación
   * Concepto: Percepción, imagen y grado de confianza que los demás (compañeros, clientes o líderes) tienen sobre un profesional basándose en sus acciones, ética, consistencia e historial de trabajo.
   * Ejemplo: Un desarrollador que entrega sus tareas a tiempo, ayuda a sus compañeros y admite sus errores de forma honesta construye una reputación de persona confiable y colaborativa.
 
-- Diferencial
+### Diferencial
   * Concepto: Capacidad de destacar de manera positiva en un entorno laboral mediante un rasgo, valor o combinación única de habilidades interpersonales y técnicas que te distinguen de otros profesionales.
   * Ejemplo: En un equipo donde todos tienen el mismo nivel técnico, la capacidad de explicar conceptos complejos de forma sencilla y mantener la calma bajo presión es el diferencial que te convierte en un referente.
+
 ### Cardinalidad
 **Descripcion:**
 La cardinalidad en las ciencias sociales y del comportamiento define el impacto cuantitativo del número de elementos en un sistema: determina cómo la mente procesa y consolida magnitudes (en psicología) y cómo la cantidad de miembros configura la estructura, normas y relaciones de un grupo (en sociología).
@@ -27,3 +28,31 @@ Ejemplo:
 La identidad de una persona puede estar formada por su nombre, su personalidad, sus creencias, su cultura y las experiencias que han influido en quién es.
 
 ---
+## Glosario SER
+
+### Liderazgo
+- **Qué es:** Guiar al grupo para que todos trabajen mejor.  
+- **Ejemplo:** Organizar tareas y motivar al equipo.
+
+### Resolución de problemas
+- **Qué es:** Encontrar soluciones cuando algo no sale como esperabas.  
+- **Ejemplo:** Recuperar un archivo dañado o rehacerlo rápido.
+
+| Término | Descripción |
+|---|---|
+| `marca` | Elemento que permite identificar y diferenciar a una persona, producto, empresa o proyecto frente a los demás. En el contexto personal, se refiere a la imagen, características y valores que hacen que una persona sea reconocible y memorable.|
+| `auténtico` | Que actúa y se presenta de manera genuina, de acuerdo con su verdadera personalidad, valores y forma de pensar, sin intentar aparentar ser alguien diferente para agradar o encajar.                                                             |
+
+# Ejemplos
+
+### `marca`
+
+* **Mi marca personal refleja mis conocimientos y mi forma de trabajar.**
+* **Una buena marca ayuda a que una empresa sea reconocida fácilmente.**
+* **Quiero construir una marca que represente mis valores y mi personalidad.**
+
+### `auténtico`
+
+* **Es una persona auténtica y no intenta aparentar ser alguien diferente.**
+* **Ser auténtico significa actuar de acuerdo con tus propios valores.**
+* **Su estilo es auténtico porque refleja realmente quién es.**
