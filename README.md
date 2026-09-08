@@ -78,7 +78,7 @@ main
 | Semana 2 | Glosario: Inglés      | Glosario: Ser         | Glosario: Software   |
 | Semana 3 | Glosario: Software    | Glosario: Inglés      | Glosario: Ser        |
 
-**Fecha límite de entrega:** Todos los jueves de cada semana correspondiente.
+> **Fecha límite de entrega:** Todos los jueves de cada semana correspondiente.
 
 ## Estructura de Contenido por Glosario
 
